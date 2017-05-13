@@ -1,17 +1,19 @@
 ## active ##
+## firefox_title_meta_bug1345338 ##
+## firefox_updated ##
 ## home_title_update ##
 ## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop
 
 
 # HTML page title
 ;Free Web Browser for Mac, Windows, Linux | Firefox
-Free Web Browser for Mac, Windows, Linux | Firefox
+லினக்ஸ், விண்டோஸ், மேக் இயங்குதளங்களுககான கட்டற்ற திறவூற்று இணைய உலாவி | பயர்பாக்ஸ்
 
 
 # String is obsolete. Do not remove.
 # This is the <title> tag
 ;Firefox Web browser — Trusted, Flexible, Fast — Committed to you, your privacy and an open Web
-Firefox உலாவி — நம்பகமானது, நெகிழ்வானது, விரைவானது — உங்களுக்காகவும், உங்களின் தனியுரிமைக்காகவும், திறந்த இனையத்திற்காகவும் அர்பணிக்கப்பட்டது
+பயர்பாக்ஸ் உலாவி — நம்பகமானது, நெகிழ்வானது, விரைவானது — உங்களுக்காகவும், உங்களின் தனியுரிமைக்காகவும், திறந்த இனையத்திற்காகவும் அர்பணிக்கப்பட்டது
 
 
 # Previous title (DO NOT REMOVE)
@@ -21,7 +23,7 @@ Firefox உலாவி — நம்பகமானது, நெகிழ்�
 
 # HTML page description
 ;Millions of people around the world trust Firefox Web browsers on Mac, Windows and Linux computers. Fast. Private. Download now!
-Millions of people around the world trust Firefox Web browsers on Mac, Windows and Linux computers. Fast. Private. Download now!
+உலகம் முழுவதிலும் இலட்சோப இலட்சம் மக்கள் மேக், விண்டோஸ் மற்றும் இலினக்சு கணினிகளில் பயர்பாக்ஸ் வலை உலாவிகளை நம்புகின்றனர். வேகமானது. தனிமையானது. இப்போதே பதிவிறக்குங்கள்!
 
 
 # L10n: Line break below is for wide screen formatting only.
@@ -41,7 +43,7 @@ Millions of people around the world trust Firefox Web browsers on Mac, Windows a
 # This string is displayed if the visitor is using an up-to-date version of Firefox
 # Active link to https://support.mozilla.org/products/firefox
 ;Need help with anything?
-Need help with anything?
+ஏதேனும் உதவி தேவையா?
 
 
 ;Made with a mission to put you first
@@ -53,7 +55,7 @@ Need help with anything?
 
 
 ;That’s why we’re proud to be voted the <a href="%(url1)s" data-interaction="outbound link">Most Trusted Internet Company for Privacy.</a>
-That’s why we’re proud to be voted the <a href="%(url1)s" data-interaction="outbound link">Most Trusted Internet Company for Privacy.</a>
+எனவேதான் எங்களை எப்போதும் <a href="%(url1)s" data-interaction="outbound link">இணையத்தில் தனியுரிமைக்கான நம்பமான நிறுவனம் என தேர்ந்தெடுக்கப்படுகிறோம்.</a>
 
 
 ;Find out what makes Firefox the most trusted browser on the Web
@@ -89,11 +91,11 @@ That’s why we’re proud to be voted the <a href="%(url1)s" data-interaction="
 
 
 ;* Based on <a data-interaction="outbound link" href="%(url1)s">Tom’s Hardware Web Browser Grand Prix XVI</a> results.
-* <a data-interaction="outbound link" href="%(url1)s">டாம் இன் வன்பாெருள் இணைய உலாவிக்கான கிராண்டு பிரிக்ஸ் XVI</a> முடிவுகளின் அடிப்படையில்.
+* <a data-interaction="outbound link" href="%(url1)s">டாம்ஸ் ஹார்டுவேர் வெப் பிரவுசர் கிராண்ட் பிரிக்ஸ் XVI</a> முடிவுகளின் படி.
 
 
 ;Save time and do just about anything quicker than before.
-முன்பைவிட எதையும் மிக விரைவாக செய்யகிறது நேர்த்தையும் சேமிக்கிறது
+முன்பைவிட எதையும் மிக விரைவாகச் செய்கிறது நேரத்தையும் சேமிக்கிறது.
 
 
 ;Find out what makes this the fastest Firefox yet

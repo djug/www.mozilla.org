@@ -4,53 +4,53 @@
 
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
-Pre-release downloads
+ດາວໂຫລດລຸ້ນອອກກ່ອນຕົວຈິງ
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
-About
+ກ່ຽວກັບ
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Apps
-Apps
+ແອັບ
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Do Not Track
-Do Not Track
+ຢ່າຕິດຕາມ
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 # Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
 ;Interest Dashboard
-Interest Dashboard
+ແດສ໌ບອດທີ່ຫນ້າສົນໃຈ
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Developer Edition
-Developer Edition
+ລຸ້ນສຳລັບນັກພັດທະນາ
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Private Browsing
-Private Browsing
+ການທ່ອງເວັບແບບສ່ວນຕົວ
 
 
 # Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
 ;Need help?
-Need help?
+ຕ້ອງການຄວາມຊ່ວຍເຫລືອບໍ?
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;News
-News
+ຂ່າວ
 
 
 # Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
 ;Choose the independent browser
-Choose the independent browser
+ເລືອກບຣາວເຊີທີ່ມີຄວາມເປັນອິດສະລະ
 
 
 # Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
@@ -59,90 +59,90 @@ Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t 
 
 
 ;Donate
-Donate
+ບໍລິຈາກ
 
 
 ;Support
-Support
+ສະຫນັບສະຫນູນ
 
 
 ;Products
-Products
+ຜະລິດຕະພັນ
 
 
 ;Add-ons
-Add-ons
+Add-ons {ok}
 
 
 ;About Us
-About Us
+ກ່ຽວກັບພວກເຮົາ
 
 
 ;Labs
-Labs
+ແລັບ
 
 
 ;skip to Navigation
-skip to Navigation
+ຂ້າມໄປຫາການນຳທາງ
 
 
 ;switch language
-switch language
+ປ່ຽນພາສາ
 
 
 ;Back to home page
-Back to home page
+ກັບໄປຫນ້າຫລັກ
 
 
 ;About Mozilla
-About Mozilla
+ກ່ຽວກັບ Mozilla
 
 
 ;Get Involved
-Get Involved
+ເຂົ້າມາມີສ່ວນຮ່ວມ
 
 
 ;Careers
-Careers
+ວຽກເຮັດງານທໍາ
 
 
 ;Press Center
-Press Center
+ສູນຂ່າວ
 
 
 ;Contact Us
-Contact Us
+ຕິດຕໍ່ພວກເຮົາ
 
 
 ;Other languages:
-Other languages:
+ພາສາອື່ນໆ:
 
 
 # Will replace "Other languages" for the footer's language switcher
 ;Page language:
-Page language:
+ພາສາຂອງຫນ້າ:
 
 
 # Year / Month / Day, indicate your prefered date format for your language
 ;%Y-%m-%d
-%Y-%m-%d
+%d-%m-%Y
 
 
 ;Legal
-Legal
+ຖືກກົດຫມາຍ
 
 
 # Used as link in the footer
 ;Cookies
-Cookies
+ຄຸກກີ
 
 
 ;Legal Notices
-Legal Notices
+ແຈ້ງການກ່ຽວກັບກົດຫມາຍ
 
 
 ;Privacy Policy
-Privacy Policy
+ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ
 
 
 ;Release Notes
@@ -150,56 +150,56 @@ Release Notes
 
 
 ;Other Systems and Languages
-Other Systems and Languages
+ລະບົບ ແລະ ພາສາອື່ນໆ
 
 
 ;Close
-Close
+ປິດ
 
 
 ;(in English)
-(in English)
+(in ພາສາອັງກິດ)
 
 
 ;Return to top
-Return to top
+ກັບໄປດ້ານເທິງ
 
 
 ;Features
-Features
+ຄຸນລັກສະນະ
 
 
 ;Customize
-Customize
+ການປັບແຕ່ງ
 
 
 ;Download
-Download
+ດາວໂຫລດ
 
 
 ;Previous
-Previous
+ກ່ອນຫນ້ານີ້
 
 
 ;Next
-Next
+ຕໍ່ໄປ
 
 
 # MegaBytes abbreviation
 ;MB
-MB
+MB {ok}
 
 
 ;MegaBytes
-MegaBytes
+MegaBytes {ok}
 
 
 ;FAQ
-FAQ
+ຄຳຖາມທີ່ມີຄົນຖາມເລື້ອຍໆ
 
 
 ;Videos
-Videos
+ວີດີໂອ
 
 
 ;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
@@ -211,58 +211,58 @@ Report Trademark Abuse
 
 
 ;Free Upgrade
-Free Upgrade
+ຟຣີອັບເກດ
 
 
 # social networks such as Facebook and Twitter
 ;Follow us on:
-Follow us on:
+ຕິດຕາມພວກເຮົາໄດ້ໃນ:
 
 
 ;Customize with Add-ons
-Customize with Add-ons
+ປັບແຕ່ງດ້ວຍ Add-ons
 
 
 ;Learn More
-Learn More
+ຮຽນຮູ້ເພີ່ມເຕີມ
 
 
 # Same as previous above but with no capitalization on More
 ;Learn more
-Learn more
+ຮຽນຮູ້ເພີ່ມເຕີມ
 
 
 # Link used to play again an animation or a video
 ;Replay
-Replay
+ຫຼິ້ນຊໍ້າ
 
 
 ;Watch the video
-Watch the video
+ເບິງວິດີໂອ
 
 
 ;Replay the video
-Replay the video
+ຫຼິ້ນວິດີໂອຊໍ້າ
 
 
 ;Share the video
-Share the video
+ແບ່ງປັນວິດີໂອ
 
 
 ;WebM format
-WebM format
+ຮູບແບບ WebM
 
 
 ;Ogg Theora format
-Ogg Theora format
+ຮູບແບບ Ogg Theora
 
 
 ;MPEG-4 format
-MPEG-4 format
+ຮູບແບບ MPEG-4
 
 
 ;Mobile
-Mobile
+ໂທລະສັບມືຖື
 
 
 ;View Full Site
@@ -270,23 +270,23 @@ View Full Site
 
 
 ;Desktop
-Desktop
+ເດສກ໌ທັອບ
 
 
 ;Firefox for mobile
-Firefox for mobile
+Firefox ສຳລັບໂທລະສັບ
 
 
 ;Email
-Email
+ອີເມລ໌
 
 
 ;Upgrade now
-Upgrade now
+ອັບເກດຕອນນີ້
 
 
 ;Update now
-Update now
+ອັບເດດຕອນນີ້
 
 
 # This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
@@ -311,7 +311,7 @@ Contribute to this page
 
 # Top menu item
 ;Mission
-Mission
+ພາລະກິດ
 
 
 # Footer item on some pages to link to a tour of features
@@ -321,22 +321,22 @@ Tour
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
-Sync
+Sync {ok}
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Desktop Add-ons
-Desktop Add-ons
+Add-ons ສຳລັບເດສກ໌ທັອບ
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Add-ons
-Android Add-ons
+Add-ons ສຳລັບ Android
 
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Themes
-Themes
+ເທມ
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -354,7 +354,7 @@ Releases
 
 
 ;Blog
-Blog
+ບລັອກ
 
 
 # Newsletter subscription form above footer on some pages
@@ -364,32 +364,32 @@ Get Mozilla updates
 
 # share button for social networks
 ;Share
-Share
+ແບ່ງປັນ
 
 
 # footer link
 ;Mozilla on Twitter
-Mozilla on Twitter
+Mozilla ໃນ Twitter
 
 
 # footer link
 ;Firefox on Twitter
-Firefox on Twitter
+Firefox ໃນ Twitter
 
 
 # footer link
 ;Mozilla on Facebook
-Mozilla on Facebook
+Mozilla ໃນ Facebook
 
 
 # footer link
 ;Firefox on Facebook
-Firefox on Facebook
+Firefox ໃນ Facebook
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Forums
-Forums
+ຟໍລຳ
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -409,12 +409,12 @@ Governance
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;History
-History
+ປະຫວັດ
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Our Products
-Our Products
+ຜະລິດຕະພັນຂອງພວກເຮົາ
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -429,7 +429,7 @@ Become a volunteer contributor in a number of different areas.
 
 # This is a non-visible string for blind people to indicate where the menu is
 ;Menu
-Menu
+ເມນູ
 
 
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
@@ -453,99 +453,99 @@ Firefox Help
 
 
 ;January
-January
+ມັງກອນ
 
 
 ;February
-February
+ກຸມພາ
 
 
 ;March
-March
+ມີນາ
 
 
 ;April
-April
+ເມສາ
 
 
 ;May
-May
+ພຶດສະພາ
 
 
 ;June
-June
+ມິຖຸນາ
 
 
 ;July
-July
+ກໍລະກົດ
 
 
 ;August
-August
+ສິງຫາ
 
 
 ;September
-September
+ກັນຍາ
 
 
 ;October
-October
+ຕຸລາ
 
 
 ;November
-November
+ພະຈິກ
 
 
 ;December
-December
+ທັນວາ
 
 
 ;<abbr>Jan</abbr>
-<abbr>Jan</abbr>
+<abbr>ມັງກອນ</abbr>
 
 
 ;<abbr>Feb</abbr>
-<abbr>Feb</abbr>
+<abbr>ກຸມພາ</abbr>
 
 
 ;<abbr>Mar</abbr>
-<abbr>Mar</abbr>
+<abbr>ມີນາ</abbr>
 
 
 ;<abbr>Apr</abbr>
-<abbr>Apr</abbr>
+<abbr>ເມສາ</abbr>
 
 
 ;<abbr>May</abbr>
-<abbr>May</abbr>
+<abbr>ພຶດສະພາ</abbr>
 
 
 ;<abbr>Jun</abbr>
-<abbr>Jun</abbr>
+<abbr>ມິຖຸນາ</abbr>
 
 
 ;<abbr>Jul</abbr>
-<abbr>Jul</abbr>
+<abbr>ກໍລະກົດ</abbr>
 
 
 ;<abbr>Aug</abbr>
-<abbr>Aug</abbr>
+<abbr>ສິງຫາ</abbr>
 
 
 ;<abbr>Sep</abbr>
-<abbr>Sep</abbr>
+<abbr>ກັນຍາ</abbr>
 
 
 ;<abbr>Oct</abbr>
-<abbr>Oct</abbr>
+<abbr>ຕຸລາ</abbr>
 
 
 ;<abbr>Nov</abbr>
-<abbr>Nov</abbr>
+<abbr>ພະຈິກ</abbr>
 
 
 ;<abbr>Dec</abbr>
-<abbr>Dec</abbr>
+<abbr>ທັນວາ</abbr>
 
 
 ;Congrats. You’re up to date!
@@ -564,7 +564,7 @@ Text
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;HTML
-HTML
+HTML {ok}
 
 
 # This is the error message displayed if you provide an invalid email address in a form
@@ -602,7 +602,7 @@ Sign me up
 
 
 ;Select country
-Select country
+ເລືອກປະເທດ
 
 
 ;Available Languages
@@ -652,5 +652,10 @@ Internet Health
 # Used as title in What's new page for 50
 ;Thanks for choosing Firefox!
 ຂອບໃຈທີ່ເລືອກນຳໃຊ້ Firefox!
+
+
+# Used in combination with other strings to create HTML page titles, e.g. in What's new pages
+;Mozilla Firefox Web Browser
+Mozilla Firefox Web Browser
 
 

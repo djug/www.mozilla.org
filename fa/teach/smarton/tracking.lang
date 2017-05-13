@@ -8,7 +8,7 @@
 
 # HTML Meta (description). First part of the string is also available in the landing page file (smarton(index.lang)
 ;What you do online is your business, and you can keep it that way. Get smart on tracking.
-What you do online is your business, and you can keep it that way. Get smart on tracking.
+اینکه چه‌کاری را به صورت آنلاین انجام می‌دهید به شما مربوط می‌شود،‌و شما می‌توانید این را حفظ کنید. در مورد ردیابی هوشمند شوید.
 
 
 ;Ask yourself
@@ -28,56 +28,56 @@ What you do online is your business, and you can keep it that way. Get smart on 
 
 
 ;What is tracking?
-What is tracking?
+دنبال کردن چیست؟
 
 
 ;Every time we go online, we leave behind traces of our activity. They’re often called our “digital footprints” and for good reason, because tracking is sort of like re-tracing our steps.
-Every time we go online, we leave behind traces of our activity. They’re often called our “digital footprints” and for good reason, because tracking is sort of like re-tracing our steps.
+هربار که آنلاین می‌شویم، پشت سر دنبال کردن فعالیت هایمان را رها می‌کنیم. آن ها اغلب به یک علت خوب “ردپای دیجیتال ما ” نامیده می‌شوند،‌ زیرا به نوعی این دنبال کردن شبیه دنبال کردن گام‌های ماست.
 
 
 ;But our digital footprints reveal more about us than where we’ve been — everything from our preferences to our identities.
-But our digital footprints reveal more about us than where we’ve been — everything from our preferences to our identities.
+اما ردپای آنلاین ما بیشتر در مورد ما اطلاعات می‌دهد تا اینکه چه کسی بوده‌ایم— هرچیزی از ترجیجات ما تا هویت ما.
 
 
 ;Watch the documentary at donottrack-doc.com.
-Watch the documentary at donottrack-doc.com.
+مستند را درdonottrack-doc.com مشاهده کنید.
 
 
 # Link points to https://donottrack-doc.com/
 ;To get a good look at how tracking works, be sure to check out the first episode of Brett Gaylor’s documentary series, <a href="{url}"><cite>Do Not Track</cite></a>.
-To get a good look at how tracking works, be sure to check out the first episode of Brett Gaylor’s documentary series, <a href="{url}"><cite>Do Not Track</cite></a>.
+برای گرفتن یک ایده درست در مورد اینکه دنبال کردن چگونه کار می‌کند، مطمئن شوید که اولی قسمت سریال مستند Brett Gaylor را مشاهده کرده‌اید، <a href="{url}"><cite>دنبال نکن </cite></cite>.
 
 
 ;Tracking in action
-Tracking in action
+دنبال کردن در عمل
 
 
 ;Let’s imagine a typical day online: you start by checking emails, maybe share a fun article you just read.
-Let’s imagine a typical day online: you start by checking emails, maybe share a fun article you just read.
+بیایید یک روز آنلاین معمولی را تصور کنیم: شما با بررسی پست ‌الکترونیکی خوب شروع می‌کنید،‌ ممکن است یک مقاله طنر را که مطالعه کرده آید به اشتراک قرار دهید.
 
 
 ;At lunch, you check showtimes for a movie a friend recommended on Facebook and look up prices for some new camping gear you’ve had your eye on.
-At lunch, you check showtimes for a movie a friend recommended on Facebook and look up prices for some new camping gear you’ve had your eye on.
+موقع ناهار،‌ شما زمان پخش فیلمی که دوست شما آن را پیشنهاد کرده است را بر روی فیسبوک بررسی می‌کنید یا به نگاهی به  قیمت تعدادی از ابزارهای کمپ زدن می‌اندازید که چشمان شما بر روی آن بوده است.
 
 
 ;That’s only a few sites, but what’s happening behind the scenes is that many more “third-parties” — companies that are separate from the sites you’re visiting — are seeing and recording your activity.
-That’s only a few sites, but what’s happening behind the scenes is that many more “third-parties” — companies that are separate from the sites you’re visiting — are seeing and recording your activity.
+اینها فقط تعداد کمی از پایگاه‌های اینترنتی هستند،‌ اما چه اتفاقی پشت پرده تعداد زیادی شرکت های ”ثالث“ رخ می‌د هد که جدا از پایگاه اینترنتی هستند که شما آن را بازدید کرده‌اید— آن ها در حال مشاهده و ذخیره سازی فعالیت های شما هستند.
 
 
 ;So when you begin seeing recommended articles about that movie, or ads for that camping gear, later in the day, it’s no coincidence.
-So when you begin seeing recommended articles about that movie, or ads for that camping gear, later in the day, it’s no coincidence.
+بنابراین وقتی شما شروع به بازدید مقالات پیشنهادی برای فیلم خود می‌کنید،‌یا تبلیغات برای ابزار کمپ زدن،‌در روزهای بعد،‌ این اتفاقی نخواهد بود.
 
 
 ;Tracking for personalization
-Tracking for personalization
+دنبال کردن شخصی
 
 
 ;What are cookies?
-What are cookies?
+کوکی‌ها چه هستند؟
 
 
 ;Cookies are small data files that websites and third parties place on your computer to remember your preferences or to track your activity, sometimes across multiple sites.
-Cookies are small data files that websites and third parties place on your computer to remember your preferences or to track your activity, sometimes across multiple sites.
+کوکی‌ها  پرونده های اطلاعاتی کوچک هستند که توسط پایگاه‌های اینترنتی و مکان های ثالث  آن ها را بر روی کامپیوتر شما قرار می‌گیرد تا ترجیحات شما را به خاطر بسپارند یا فعالیت های شما را دنبال کنند و گاهی در بین چندین پایگاه اینترنتی صورت می‌گیرد.
 
 
 # This fragment follows the number '76%'. If this doesn't work for your locale, you can start the sentence with "Percentage of adults who…"
@@ -87,11 +87,11 @@ of adults say they are “not too confident” or “not at all confident” tha
 
 # "Pew Research Center" is a proper name and shouldn't be translated. Link to https://www.pewinternet.org/2015/05/20/americans-attitudes-about-privacy-security-and-surveillance/
 ;(Pew Research Center, May 2015)
-(Pew Research Center, May 2015)
+(مرکز تحقیقات Pew,می 2015)
 
 
 ;The websites we visit will often collect data about us to better personalize our experiences with them.
-The websites we visit will often collect data about us to better personalize our experiences with them.
+این پایگاه اینترنتی که ما بازدید می‌کنیم اغلب اطلاعاتی را در مورد ما جمع آوری می‌کند تا تجربه شخصی سازی شده ای را برای فراهم سازد.
 
 
 ;The information they gather through analytics can be used to make navigating their site easier for us or to present us more relevant offers.
@@ -103,20 +103,20 @@ They also use cookies — small data files placed in our browsers — to remembe
 
 
 ;By the way…
-By the way…
+با این حال…
 
 
 ;Mozilla sites are no exception. Like most other Web sites, we also use third party tools to improve user experience.
-Mozilla sites are no exception. Like most other Web sites, we also use third party tools to improve user experience.
+پایگاه‌های اینترنتی موزیلا هم بدون استثنا هستند. مانند پایگاه های اینترنتی دیگر،‌ ما هم از ابزارهای ثالث برای بهبود تجربه کاربری استفاده می کنیم.
 
 
 # Link points to https://www.mozilla.org/privacy/websites/
 ;For more info see our <a href="{url}">Website Privacy Notice</a>.
-For more info see our <a href="{url}">Website Privacy Notice</a>.
+برای دریافت اطلاعات بیشتر <a href="{url}"> نکات حریم شخصی پایگاه‌اینترنتی</a> را مشاهده کنید.
 
 
 ;Tracking without permission
-Tracking without permission
+دنبال‌کردن بدون درخواست مجوز
 
 
 ;Many websites we visit contain hidden third parties — such as data brokers, affiliate networks and advertising networks — who use cookies, and other data tracking methods, to collect information about our browsing habits without our consent.
@@ -128,11 +128,11 @@ While tracking can be helpful, there can’t be a healthy trade-off between the 
 
 
 ;Going beyond the Web
-Going beyond the Web
+فراتر از وب بروید
 
 
 ;Online tracking is just one part of a larger ecosystem of data collection.
-Online tracking is just one part of a larger ecosystem of data collection.
+دنبال کردن آنلاین تنها یکی از از بخش های اکوسیستم بزرگ ذخیره سازی داده است.
 
 
 ;Within this ecosystem, anonymized online data can be merged with personally identifiable information about you (information that you may have volunteered on a form, in an app or that was collected offline) to build a surprisingly detailed profile of you.
@@ -327,11 +327,11 @@ Use Private Browsing to keep from having certain items about your browsing activ
 
 
 ;These include your history, searches and cookies.
-These include your history, searches and cookies.
+اینها شامل تاریخچه شما،‌جست‌وجو ها و کوکی ها.
 
 
 ;Here is how to use private browsing:
-Here is how to use private browsing:
+از اینجا بدانید چگونه به صورت خصوصی مرور کنید:
 
 
 ;Desktop
@@ -339,7 +339,7 @@ Here is how to use private browsing:
 
 
 ;Smartphone
-Smartphone
+تلفن هوشمند
 
 
 ;Firefox for Android
@@ -347,19 +347,19 @@ Smartphone
 
 
 ;Additional privacy settings
-Additional privacy settings
+تنظیمات حریم شخصی بیشتر
 
 
 ;Many browsers offer a range of privacy settings that will help you stay in control. Explore them here:
-Many browsers offer a range of privacy settings that will help you stay in control. Explore them here:
+تعدادی از مرورگرها گستره ای از پیشنهادات برای تنظیمات حریم شخصی را ارائه می‌کنند که به شما کمک خواهد کرد کنترل خود را به دست بگیرید. آن ها را در اینجا کشف کنید:
 
 
 ;Share your tracking smarts
-Share your tracking smarts
+دنبال کننده هوشمند خود را به اشتراک بگذارید
 
 
 ;Now that you have some tools and the knowledge to protect yourself, spread the word to friends.
-Now that you have some tools and the knowledge to protect yourself, spread the word to friends.
+حالا که شما ابزار و دانش حفاظت از خود را دارید، این موارد را بین دوستان خود پخش کنید.
 
 
 ;The more everybody knows about tracking and how to protect their online data, the better off we’ll all be. Feel free to use the questions below to keep the conversation going!
@@ -368,21 +368,21 @@ The more everybody knows about tracking and how to protect their online data, th
 
 # Link points to https://teach.mozilla.org/activities/
 ;Are you a teacher? Give your students <a href="{url}">a simple lesson on tracking</a>.
-Are you a teacher? Give your students <a href="{url}">a simple lesson on tracking</a>.
+آیا شما معلم هستید؟ به دانش آموزان خود <a href="{url}"> یک درس ساده در مورد ردیابی بدهید</a>.
 
 
 # Will be used as a tweet. Keep it as short as possible.
 ;What privacy settings do you use in your browser?
-What privacy settings do you use in your browser?
+چه تنظیمان حریم شخصی بر روی مرورگر خود استفاده می‌کنید؟
 
 
 # Will be used as a tweet. Keep it as short as possible.
 ;How much are you willing to share about yourself in exchange for personalized content?
-How much are you willing to share about yourself in exchange for personalized content?
+چه مقدار تمایل دارید درازای محتوا شخصی سازی شده اطلاعات خود را به اشتراک قرار دهید؟
 
 
 # Will be used as a tweet. Keep it as short as possible.
 ;Have you ever used private browsing?
-Have you ever used private browsing?
+تا حالا از یک مرورگر خصوصی استفاده کرده‌اید؟
 
 

@@ -13,12 +13,20 @@ Taguri tumḍint temmal-d asmil n tiggwti, asemres n uqadeṛ akked usiḥbiber 
 Tudert tabaḍnit  &amp; Taɣellist
 
 
+;Open Innovation
+Asnulfu yeldin
+
+
+;Decentralization
+Decentralization
+
+
 ;Digital Inclusion
 Aslaɣ umḍin
 
 
-;Open Innovation
-Asnulfu yeldin
+;Web Literacy
+Web Literacy
 
 
 ;A Healthy Internet is Inclusive to All
@@ -212,9 +220,14 @@ Amek i tzemreḍ ad seḥbibreḍ af unekcum amaḍalan
 
 
 ;Donate your tech
-Donate your tech
+Mmud ifecka inek
 
 
+;Donate your old computers, laptops, and phones to non-profits that refurbish and redistribute them to underserved communities.
+Donate your old computers, laptops, and phones to non-profits that refurbish and redistribute them to underserved communities.
+
+
+# String is obsolete. Do NOT remove.
 ;Donate your old computers, laptops, and phones to non-profits like <a href="%(reconnect)s">Reconnect</a>, <a href="%(strut)s">Students Recycling Used Technology</a>, or <a href="%(interconnection)s">Interconnection</a>, who refurbish and redistribute them to underserved communities.
 Donate your old computers, laptops, and phones to non-profits like <a href="%(reconnect)s">Reconnect</a>, <a href="%(strut)s">Students Recycling Used Technology</a>, or <a href="%(interconnection)s">Interconnection</a>, who refurbish and redistribute them to underserved communities.
 
@@ -244,7 +257,7 @@ Qqen ayen ur neqqin ara
 
 
 ;Sponsoring the <a href="%(equalrating)s">Equal Rating Innovation Challenge</a> to find novel solutions for connecting the unconnected to the full, open Internet.
-Sponsoring the <a href="%(equalrating)s">Equal Rating Innovation Challenge</a> to find novel solutions for connecting the unconnected to the full, open Internet.
+Tteki di <a href="%(equalrating)s">Equal Rating Innovation Challenge</a> akken ad tafeḍ tifrat tamaynut i wakken imdanen ur neqqin ara ad afen amek ad kecmen γer internet i yeldin.
 
 
 ;Hungry for more?

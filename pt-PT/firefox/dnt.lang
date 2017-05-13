@@ -72,7 +72,7 @@ O Do Not Track irá afetar o resto da minha experiência Web?
 
 
 ;Do Not Track may interfere with some personalized services you enjoy. For example, a Do Not Track request might mean you would have to type in your zip code each time you want to view a weather report, rather than seeing the weather automatically displayed. Personalization on websites can save you time and repetitive typing, but it requires data.
-A opção pode interferir com alguns dos serviços personalizados que gosta. Por exemplo, um pedido Do Not Track pode significar que terá de introduzir o seu código postal sempre que quiser ver um boletim meteorológico, em vez do mesmo ser automaticamente apresentado. As personalizações em websites podem poupar-lhe tempo e repetição de informação, mas requerem dados.
+O Do Not Track pode interferir com alguns dos serviços personalizados que gosta. Por exemplo, um pedido Do Not Track pode significar que terá de introduzir o seu código postal sempre que quiser ver um boletim meteorológico, em vez do mesmo ser automaticamente apresentado. As personalizações em websites podem poupar-lhe tempo e repetição de informação, mas requerem dados.
 
 
 ;How do I enable Do Not Track in Firefox?
@@ -109,11 +109,11 @@ Onde posso saber mais?
 
 
 ;Other interesting work about Do Not Track and online privacy:
-Outros trabalhos interessantes sobre o Do Not Track e a privacidade online:
+Outros trabalhos interessantes acerca do Do Not Track e privacidade online:
 
 
 ;<a href="%s">Private browsing</a> in Firefox &#8212; limits saving data about which sites and pages you have visited online
-A <a href="%s">navegação privada</a> no Firefox &#8212; limita o registo de dados sobre os sites e páginas que visitou online
+A <a href="%s">Navegação privada</a> no Firefox &#8212; limita o registo de dados acerca de que sites e páginas que visitou online
 
 
 ;<a href="%(url1)s">Managing cookies</a> in Firefox &#8212; lets you control how <a href="%(url2)s">cookies</a> are saved on your computer

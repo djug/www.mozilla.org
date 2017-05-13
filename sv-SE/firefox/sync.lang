@@ -1,6 +1,7 @@
 ## active ##
 ## firefox_sync_mobile_buttons_update ##
 ## firefox_sync_non_fx ##
+## firefox_title_meta_bug1345338 ##
 ## fx38_sync_updates ##
 ## ios_announce ##
 ## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
@@ -14,7 +15,7 @@ Använd bokmärken, flikar och lösenord mellan olika enheter | Firefox
 # String is obsolete. Do not remove.
 # HTML page title
 ;Keep your Firefox in sync
-Håll din Firefox synkad
+Håll Firefox synkad
 
 
 # HTML page description

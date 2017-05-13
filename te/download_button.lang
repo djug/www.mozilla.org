@@ -6,7 +6,7 @@ Firefoxను దింపుకోండి
 
 
 ;Download now
-ఇప్పుడు డౌన్లోడ్ చేయండి
+ఇప్పుడే దింపుకోండి
 
 
 ;Your system doesn't meet the <a href="%(url)s">requirements</a> to run Firefox.
@@ -23,6 +23,10 @@ Android కోసం <span>Firefox Beta</span>
 
 ;<span>Firefox Aurora</span> for Android
 Android కోసం <span>Firefox Aurora</span>
+
+
+;<span>Firefox Nightly</span> for Android
+<span>Firefox Nightly</span> for Android
 
 
 ;<span>Firefox</span> for Android
@@ -43,6 +47,10 @@ App Store నుండి ఉచితంగా పొందండి
 
 ;Firefox Beta
 Firefox Beta {ok}
+
+
+;Firefox Nightly
+Firefox Nightly
 
 
 ;Firefox Aurora
@@ -83,7 +91,7 @@ iOS కొరకు Firefox ను పొందండి
 
 
 ;Firefox Privacy
-Firefox గోప్యతా
+Firefox గోప్యత
 
 
 ;Systems &amp; Languages

@@ -1,5 +1,7 @@
 ## active ##
 ## android_nightly_copy ##
+## firefox_title_meta_bug1345338 ##
+## firefox_title_meta_bug1357373 ##
 ## NOTE: url is https://www-demo1.allizom.org/firefox/channel/
 
 
@@ -58,6 +60,12 @@ Testen Sie neue Funktionen in der Vorabversion des Android-Browsers | Firefox
 Nutzen und testen Sie zukünftige Versionen von Firefox für Desktop, Android und iOS.
 
 
+# HTML Description, on the Android page only.
+;Experience cutting-edge features in a pre-release browser for Android: Firefox Beta and Firefox Nightly. Install now!
+Eerleben Sie brandneue Funktionen in der Vorabversion des Browsers für Android: Firefox Beta und Firefox Nightly. Jetzt installieren!
+
+
+# String is obsolete. Do not remove.
 # HTML Description, on the Android page only.
 ;Experience cutting-edge features in a pre-release browser for Android: Firefox Beta, Firefox Aurora and Firefox Nightly. Install now!
 Eerleben Sie brandneue Funktionen in der Vorabversion des Browsers für Android: Firefox Beta, Firefox Aurora und Firefox Nightly. Jetzt installieren!

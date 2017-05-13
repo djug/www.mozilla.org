@@ -1,5 +1,7 @@
 ## active ##
 ## android_nightly_copy ##
+## firefox_title_meta_bug1345338 ##
+## firefox_title_meta_bug1357373 ##
 ## NOTE: url is https://www-demo1.allizom.org/firefox/channel/
 
 
@@ -58,6 +60,12 @@ Testujśo nowe funkcije w pśedwersiji wobglědowaka za Android | Firefox
 Ześěgniśo a testujśo pśichodne wersije Firefox za desktop, Android a iOS.
 
 
+# HTML Description, on the Android page only.
+;Experience cutting-edge features in a pre-release browser for Android: Firefox Beta and Firefox Nightly. Install now!
+Dožywśo nowučke funkcije w pśedwersiji wobglědowaka za Android: Firefox Beta a Firefox Nightly. Instalěrujśo něnto!
+
+
+# String is obsolete. Do not remove.
 # HTML Description, on the Android page only.
 ;Experience cutting-edge features in a pre-release browser for Android: Firefox Beta, Firefox Aurora and Firefox Nightly. Install now!
 Dožywśo nowučke funkcije w pśedwersiji wobglědowaka za Android: Firefox Beta, Firefox Aurora a Firefox Nightly. Instalěrujśo něnto!

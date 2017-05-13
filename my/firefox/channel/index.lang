@@ -1,5 +1,6 @@
 ## active ##
 ## android_nightly_copy ##
+## firefox_title_meta_bug1345338 ##
 ## NOTE: url is https://www-demo1.allizom.org/firefox/channel/
 
 
@@ -59,6 +60,12 @@ iOS {ok}
 
 
 # HTML Description, on the Android page only.
+;Experience cutting-edge features in a pre-release browser for Android: Firefox Beta and Firefox Nightly. Install now!
+Experience cutting-edge features in a pre-release browser for Android: Firefox Beta and Firefox Nightly. Install now!
+
+
+# String is obsolete. Do not remove.
+# HTML Description, on the Android page only.
 ;Experience cutting-edge features in a pre-release browser for Android: Firefox Beta, Firefox Aurora and Firefox Nightly. Install now!
 Android အတွက် အစမ်းသုံး ဘရောင်ဇာ (Firefox Beta, Firefox Aurora နှင့် Firefox Nightly) ရှိ နောက်ဆုံးပေါ် လုပ်ဆောင်ချက်များကို အသုံးပြု ခံစားကြည့်ပါ။ ယခုပင် တပ်ဆင် အသုံးပြုကြည့်ပါ။
 
@@ -110,7 +117,7 @@ Developer Edition, Beta နှင့် ညစဉ်ထုတ် မီးမြ
 
 
 ;Test about-to-be-released features in the most stable pre-release build.
-ထုတ်လွှင့်တော့မည့် လုပ်ဆောင်ျခက်များကို တည်ငြိမ်နေပြီဖြစ်သော ကြိုထုတ်မီးမြေခွေး အားသုံးပြီး စမ်းသပ်ပေးပါ
+ထုတ်လွှင့်တော့မည့် လုပ်ဆောင်ချက်များကို တည်ငြိမ်နေပြီဖြစ်သော ကြိုထုတ်မီးမြေခွေးကို အသုံးပြုပြီး စမ်းသပ်ပေးပါ။
 
 
 ;All Languages and Builds (incl. Win 64)

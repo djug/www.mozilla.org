@@ -1,5 +1,7 @@
 ## active ##
 ## android_nightly_copy ##
+## firefox_title_meta_bug1345338 ##
+## firefox_title_meta_bug1357373 ##
 ## NOTE: url is https://www-demo1.allizom.org/firefox/channel/
 
 
@@ -14,7 +16,7 @@
 
 # Used in the navigation menu
 ;Desktop
-Για υπολογιστές
+Υπολογιστές
 
 
 # Used in the navigation menu
@@ -49,7 +51,7 @@ iOS {ok}
 
 # HTML page title, on the Android page only.
 ;Try New Features in a Pre-Release Android Browser | Firefox
-Try New Features in a Pre-Release Android Browser | Firefox
+Δοκιμάστε νέες λειτουργίες σε ένα πρώιμο πρόγραμμα περιήγησης για Android | Firefox
 
 
 # String is obsolete. Do not remove.
@@ -59,8 +61,14 @@ Try New Features in a Pre-Release Android Browser | Firefox
 
 
 # HTML Description, on the Android page only.
+;Experience cutting-edge features in a pre-release browser for Android: Firefox Beta and Firefox Nightly. Install now!
+Δοκιμάστε τις πιο πρόσφατες λειτουργίες σε μια προ-έκδοση του προγράμματος περιήγησης για Android: Firefox Beta και Firefox Nightly. Εγκατάσταση τώρα!
+
+
+# String is obsolete. Do not remove.
+# HTML Description, on the Android page only.
 ;Experience cutting-edge features in a pre-release browser for Android: Firefox Beta, Firefox Aurora and Firefox Nightly. Install now!
-Experience cutting-edge features in a pre-release browser for Android: Firefox Beta, Firefox Aurora and Firefox Nightly. Install now!
+Πειραματιστείτε με τα πιο σύγχρονα χαρακτηριστικά στην προ-έκδοση ενός προγράμματος περιήγησης για Android: Firefox Beta, Firefox Aurora και Firefox Nightly. Εγκατάσταση τώρα!
 
 
 # String is obsolete. Do not remove.
@@ -82,11 +90,11 @@ Experience cutting-edge features in a pre-release browser for Android: Firefox B
 
 
 ;Firefox Aurora automatically sends feedback to Mozilla.
-Ο Firefox Aurora στέλνει αναφορές στο ίδρυμα Mozilla αυτόματα.
+Το Firefox Aurora στέλνει αυτόματα σχόλια στη Mozilla.
 
 
 ;Firefox Beta automatically sends feedback to Mozilla.
-Ο Firefox Beta στέλνει αναφορές στο ίδρυμα Mozilla αυτόματα.
+Το Firefox Beta στέλνει αυτόματα σχόλια στη Mozilla.
 
 
 ;<a rel="external" href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
@@ -95,12 +103,12 @@ Experience cutting-edge features in a pre-release browser for Android: Firefox B
 
 # HTML page title, on the desktop page only.
 ;Try New Browser Features in Pre-Release Versions | Firefox
-Try New Browser Features in Pre-Release Versions | Firefox
+Δοκιμάστε νέα χαρακτηριστικά στις προ-εκδόσεις | Firefox
 
 
 # HTML page description, on the desktop page only.
 ;Experience cutting-edge browser features in pre-release versions: Firefox Developer Edition, Firefox Beta and Firefox Nightly. Download now!
-Experience cutting-edge browser features in pre-release versions: Firefox Developer Edition, Firefox Beta and Firefox Nightly. Download now!
+Πειραματιστείτε με τα πιο σύγχρονα χαρακτηριστικά στις προ-εκδόσεις: Firefox Developer Edition, Firefox Beta και Firefox Nightly. Λήψη τώρα!
 
 
 # String is obsolete. Do not remove.
@@ -122,7 +130,7 @@ Experience cutting-edge browser features in pre-release versions: Firefox Develo
 
 
 ;Firefox Developer Edition automatically sends feedback to Mozilla.
-Ο Firefox Developer Edition στέλνει αναφορές στο ίδρυμα Mozilla αυτόματα.
+Το Firefox Developer Edition στέλνει αυτόματα σχόλια στη Mozilla.
 
 
 ;Check out new Android features in their earliest stages. Enjoy at your own risk.
@@ -134,7 +142,7 @@ Experience cutting-edge browser features in pre-release versions: Firefox Develo
 
 
 ;Firefox Nightly automatically sends feedback to Mozilla.
-Ο Firefox Nighlty στέλνει αναφορές στο ίδρυμα Mozilla αυτόματα.
+Το Firefox Nightly στέλνει αυτόματα σχόλια στη Mozilla.
 
 
 ;Nightly Blog
@@ -143,13 +151,13 @@ Nightly Blog {ok}
 
 # HTML page title, on the iOS page only.
 ;Try New Features in a Pre-Release iOS Browser | Firefox
-Try New Features in a Pre-Release iOS Browser | Firefox
+Δοκιμάστε νέα χαρακτηριστικά στην προ-έκδοση ενός προγράμματος περιήγησης για iOS | Firefox
 
 
 # HTML page description, on the iOS page only.
 # Don't translate TestFlight
 ;Experience cutting-edge features in a pre-release browser for iOS via Apple’s TestFlight program. Install now!
-Experience cutting-edge features in a pre-release browser for iOS via Apple’s TestFlight program. Install now!
+Πειραματιστείτε με τα πιο σύγχρονα χαρακτηριστικά στην προ-έκδοση ενός προγράμματος περιήγησης για iOS μέσω του προγράμματος TestFlight της Apple. Εγκατάσταση τώρα!
 
 
 # String is obsolete. Do not remove.

@@ -1,9 +1,11 @@
 ## active ##
+## health-decentralization-and-literacy ##
+## inclusion-donate-tech ##
 ## NOTE: Demo server is available at https://www-dev.allizom.org/internet-health/digital-inclusion/
 
 
 ;Digital Inclusion: Vital to Internet Health
-Inclusão Digital: Vital para a Saúde da Internet
+Inclusão digital: Vital para a saúde da internet
 
 
 ;Digital inclusion means promoting diversity, practicing respect, and supporting universal access online.
@@ -14,12 +16,20 @@ A inclusão digital significa promover a diversidade, praticando o respeito e ap
 Privacidade &amp; Segurança
 
 
-;Digital Inclusion
-Inclusão Digital
-
-
 ;Open Innovation
-Inovação Aberta
+Inovação aberta
+
+
+;Decentralization
+Descentralização
+
+
+;Digital Inclusion
+Inclusão digital
+
+
+;Web Literacy
+Alfabetização web
 
 
 ;A Healthy Internet is Inclusive to All
@@ -216,6 +226,11 @@ Como você pode apoiar o acesso universal
 Doe a sua tecnologia
 
 
+;Donate your old computers, laptops, and phones to non-profits that refurbish and redistribute them to underserved communities.
+Doe seus computadores, laptops e telefones velhos para organizações sem fins lucrativos para serem recondicionados e redistribuídos para comunidades carentes.
+
+
+# String is obsolete. Do NOT remove.
 ;Donate your old computers, laptops, and phones to non-profits like <a href="%(reconnect)s">Reconnect</a>, <a href="%(strut)s">Students Recycling Used Technology</a>, or <a href="%(interconnection)s">Interconnection</a>, who refurbish and redistribute them to underserved communities.
 Doe seus computadores antigos, notebooks e telefones para organizações sem fins lucrativos como a <a href="%(reconnect)s">Reconnect</a>, <a href="%(strut)s">Students Recycling Used Technology</a> ou <a href="%(interconnection)s">Interconnection</a>, que os recondicionam e redistribuem a comunidades carentes.
 

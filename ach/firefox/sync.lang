@@ -34,7 +34,7 @@ Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and m
 
 
 ;Sync your bookmarks, passwords, tabs and more using your Firefox Account, and access them everywhere you’re signed in.
-Sync your bookmarks, passwords, tabs and more using your Firefox Account, and access them everywhere you’re signed in.
+Rib alamabukke, mung me donyo, dirica matino ki mukene mamegi kun itiyo ki Akaunt me Firefox mamegi, ki nong gi ka weng ma idonyo iyie.
 
 
 ;It looks like you’re running an older version of Firefox.
@@ -90,12 +90,12 @@ Open the <a class="menu ga-link" data-interaction="outbound link click" href="%(
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Get started</strong>” in the tab that opens.
-Click “<strong>Get started</strong>” in the tab that opens.
+Dii “<strong>Caki</strong>” i wang dirica madidi ma yape.
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
-Ket kanonge me email ki mung me donyo me "<strong>Cweyo akaunt me Firefox</strong>"
+Ket kanonge me email ki mung me donyo me “<strong>Cweyo Akaunt me Firefox.</strong>”
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
@@ -138,12 +138,12 @@ Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
 
 # This string is displayed on Android devices
 ;The <strong>Create a Firefox Account page</strong> will open in a new tab.
-The <strong>Create a Firefox Account page</strong> will open in a new tab.
+Potbuk me <strong>Cweyo Akaunt me Firefox</strong> bi yabe i dirica matidi manyen.
 
 
 # This string is displayed on Android devices
 ;Fill out the form and click <strong>Next</strong>.
-Fill out the form and click <strong>Next</strong>.
+Pong pwom ka i dii <strong>Mede anyim</strong>.
 
 
 # This string is displayed on Android devices
@@ -160,7 +160,7 @@ You choose what parts of your Firefox you want to sync and where you want to syn
 
 
 ;Want to visit your computer’s open tabs from another device? Access your browsing history on the go? Keep your passwords with you? Now you can.
-Want to visit your computer’s open tabs from another device? Access your browsing history on the go? Keep your passwords with you? Now you can.
+Imito limo  dirica mationo pa kompiuta ki i nyonyo mukene? Nongo lok kom layeny macon cut cut? Gwoko nama mung mamegi boti? Kombedi dong iromo.
 
 
 ;Here’s what you can sync:
@@ -168,7 +168,7 @@ Here’s what you can sync:
 
 
 ;Bookmarks
-Bookmarks
+Alamabuk
 
 
 ;Passwords
@@ -176,7 +176,7 @@ Passwords
 
 
 ;Open tabs
-Open tabs
+Yab dirica matino
 
 
 ;History
@@ -184,7 +184,7 @@ History
 
 
 ;At home
-At home
+Wa gang
 
 
 ;Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
@@ -192,7 +192,7 @@ Move from your desk to the couch without skipping a beat. Access your open tabs 
 
 
 ;At work
-At work
+Wa katic
 
 
 ;Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
@@ -228,7 +228,7 @@ DOWNLOAD FIREFOX FOR ANDROID
 
 
 ;Get Firefox everywhere
-Get Firefox everywhere
+Nong Firefox kamo keken
 
 
 ;To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.

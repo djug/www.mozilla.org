@@ -640,7 +640,7 @@ Heɓ ƴoƴon Firefox, peeje, kabaruuji e geɗe goɗɗe
 # This string will be used as a navigation label in home page, pointing to /technology
 # The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
 ;Web Innovations
-Kesamhasameeje Geese
+Kesasameeje Geese
 
 
 # This string will be used as a navigation label in home page, pointing to /internet-health
@@ -652,5 +652,10 @@ Cellal Enternet
 # Used as title in What's new page for 50
 ;Thanks for choosing Firefox!
 A jaaraama e cuɓagol maa Firefox!
+
+
+# Used in combination with other strings to create HTML page titles, e.g. in What's new pages
+;Mozilla Firefox Web Browser
+Wanngorde Geese Mozilla Firefox
 
 

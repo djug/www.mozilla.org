@@ -2,7 +2,7 @@
 
 
 ;Download Firefox
-မီးမြေခွေးအား ဒေါင်းလုဒ်ရယူပါ
+Firefoxကို ဒေါင်းလုဒ်ရယူပါ
 
 
 ;Download now
@@ -10,7 +10,7 @@
 
 
 ;Your system doesn't meet the <a href="%(url)s">requirements</a> to run Firefox.
-သင့် ကွန်ပျူတာစနစ်သည် မီးမြေခွေး အသုံးပြရန် <a href="%(url)s">လိုအပ်ချက်များ</a> နှင့်မပြည့်စုံပါ
+သင့် ကွန်ပျူတာစနစ်သည် Firefox အသုံးပြရန် <a href="%(url)s">လိုအပ်ချက်များ</a> နှင့်မပြည့်စုံပါ
 
 
 ;Your system may not meet the requirements for Firefox, but you can try one of these versions:
@@ -23,6 +23,10 @@ Android အတွက် <span>မီးမြေခွေး စမ်းသပ�
 
 ;<span>Firefox Aurora</span> for Android
 Android အတွက်<span>မီးမြေခွေး Aurora</span>
+
+
+;<span>Firefox Nightly</span> for Android
+<span>Firefox Nightly</span> for Android
 
 
 ;<span>Firefox</span> for Android
@@ -43,6 +47,10 @@ IOS အတွက်<span>မီးမြေခွေး</span>
 
 ;Firefox Beta
 မီးမြေခွေး စမ်းသပ်အဆင့်
+
+
+;Firefox Nightly
+Firefox Nightly
 
 
 ;Firefox Aurora

@@ -1,10 +1,10 @@
 ;Navigation
-திசையமைப்பு
+வழிசெலுத்தல்
 
 
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
-Pre-release downloads
+முன்-வெளியீட்டு பதிவிறக்கங்கள்
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -14,7 +14,7 @@ Pre-release downloads
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;Apps
-Apps
+பயன்பாடுகள்
 
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
@@ -120,7 +120,7 @@ Mozilla பற்றி
 
 # Will replace "Other languages" for the footer's language switcher
 ;Page language:
-Page language:
+பக்க மொழி:
 
 
 # Year / Month / Day, indicate your prefered date format for your language
@@ -142,7 +142,7 @@ Page language:
 
 
 ;Privacy Policy
-தனிப்பட்ட கொள்கை
+தனியுரிமை கொள்கை
 
 
 ;Release Notes
@@ -291,7 +291,7 @@ MPEG-4 வடிவம்
 
 # This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
 ;Privacy
-தனிஉரிமை
+தனியுரிமை
 
 
 # Footer string
@@ -394,7 +394,7 @@ mozilla.org இல் உள்ள சில உள்ளடக்கங்க�
 
 # sidebar link in some /about pages (e.g. Manifesto)
 ;Patents
-Patents
+காப்புரிமைகள்
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
@@ -434,7 +434,7 @@ Patents
 
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
-ஒரு திறந்த இணையத்தை உங்களுக்கும் உங்களுடைய தனியுரிமைக்கும் உறுதியளிக்கிறது
+ஒரு திறந்த இணையம் உங்களுக்கும் உங்களுடைய தனியுரிமைக்கும் உறுதியளிக்கிறது
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -549,7 +549,7 @@ Firefox உதவி
 
 
 ;Congrats. You’re up to date!
-Congrats. You’re up to date!
+வாழ்த்துக்கள். நீங்கள் புதுப்பித்த நிலையில் உள்ளீர்கள்!
 
 
 # Label: what email format a visitor contacting Mozilla via a form wants (contact form, contribute form…)
@@ -559,12 +559,12 @@ Congrats. You’re up to date!
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;Text
-Text
+உரை
 
 
 # Used in contact forms checkboxes to know if you want to receive HTML or pure text emails
 ;HTML
-HTML
+HTML {ok}
 
 
 # This is the error message displayed if you provide an invalid email address in a form
@@ -573,12 +573,12 @@ HTML
 
 
 ;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
-I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Notice</a>
+<a href="%s">தனிமையுரிமை அறிகையில்</a> குறிப்பிட்டபடி என் சுய தகவல்களை கையாள மொசில்லாவிற்கு நான் விருப்பம் தெறிவிக்கிறேன்
 
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
 ;Keep up with<br> all things Firefox.
-Keep up with<br> all things Firefox.
+பயர்பாக்சின் அனைத்து நிகழ்வுகளிலும்<br> இணைந்திருங்கள்.
 
 
 # This string is used for a subscription field on other pages than /newsletter/
@@ -588,12 +588,12 @@ Firefox செய்தியைப் பெறுக
 
 # This is a default placeholder for a subscription field on other pages than /newsletter/
 ;YOUR EMAIL HERE
-இங்கு உங்கள் மின்னஞ்சல் முகவரி
+உங்கள் மின்னஞ்சல் இங்கே
 
 
 # Newsletter subscription Button
 ;Sign Up Now
-Sign Up Now
+இப்பொழுதே பதிவுசெய்யுங்கள்
 
 
 # Old newsletter subscription Button
@@ -614,11 +614,11 @@ Mozilla சம்பந்தமான தகவல்களை மட்டு�
 
 
 ;Thanks!
-Thanks!
+நன்றி வணக்கம்!
 
 
 ;If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
-If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.
+முன்னதாக மொசில்லா பற்றிய செய்திகளைப் பெறுவதற்கான சந்தாப்படுத்தலை உறுதிப்படுத்தாமல் இருந்தால், உங்கள் மின்னஞ்சல் ஸ்பேம் அடைவில் உள்ளதா எனச்சோதித்துப் பார்க்கவும்.
 
 
 ;Read all about it in our <span>newsletter</span>
@@ -626,31 +626,36 @@ If you haven’t previously confirmed a subscription to a Mozilla-related newsle
 
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
-மாதாந்திர புதுப்பிப்புகளுக்கு சந்தா பெற்று Mozilla செய்திகளை உடனுக்குடன் தெரிந்துவைத்துக்கொள்ளுங்கள்,  அதில் உங்கள் Firefox உலாவியை மேலும் சிறப்பாக எப்படி பயன்படுத்துவது என்பது குறித்த உதவிக்குறிப்புகள் மற்றும் நுணுக்கங்களும் அடங்கும். இது தான் எங்களுக்கு தொடர்பு கொள்ள சிறந்த வழி!
+மாதாந்திர புதுப்பிப்புகளுக்கு சந்தா பெற்று Mozilla செய்திகளை உடனுக்குடன் தெரிந்துவைத்துக்கொள்ளுங்கள், அதில் உங்கள் பயர்பாக்ஸ் உலாவியைச் சிறப்பாக எப்படி பயன்படுத்துவது என்பது குறித்த உதவிக்குறிப்புகள் மற்றும் நுணுக்கங்களும் அடங்கும். இது தான் எங்களுக்குத் தொடர்பு கொள்ள சிறந்த வழி!
 
 
 ;<span>Firefox</span> + You
-<span>Firefox</span> + You
+<span>பயர்பாக்சும்</span> + நீங்களும்
 
 
 ;Get Firefox tips, tricks, news and more
-Get Firefox tips, tricks, news and more
+பயர்பாக்ஸ் குறிப்புகள் உத்திகள் செய்திகள் என பலவற்றைப் பெறுக
 
 
 # This string will be used as a navigation label in home page, pointing to /technology
 # The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
 ;Web Innovations
-Web Innovations
+வலை புதுமைகள்
 
 
 # This string will be used as a navigation label in home page, pointing to /internet-health
 # The string is only visible in https://www-dev.allizom.org/en-US/ until we have enough translations.
 ;Internet Health
-Internet Health
+இணைய சுகாதாரம்
 
 
 # Used as title in What's new page for 50
 ;Thanks for choosing Firefox!
-Firefox-ஐ தேர்வு செய்தமைக்கு நன்றி!
+பயர்பாக்சை தேர்வு செய்தமைக்கு நன்றி!
+
+
+# Used in combination with other strings to create HTML page titles, e.g. in What's new pages
+;Mozilla Firefox Web Browser
+Mozilla Firefox வலை உலாவி
 
 

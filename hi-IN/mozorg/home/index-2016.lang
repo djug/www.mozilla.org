@@ -1,6 +1,7 @@
 ## active ##
 ## mozorg-home-fundraising-2016 ##
 ## mozorg-home-fxcopy-unleash ##
+## mozorg-home-health-report ##
 ## mozorg-home-impact-health ##
 ## NOTE: demo server at https://bedrock-demo-agibson.us-west.moz.works/
 
@@ -45,7 +46,7 @@ Teach The Web {ok}
 
 
 ;Read our Internet Health Report
-Read our Internet Health Report
+हमारे इंटरनेट स्वास्थ्य रिपोर्ट को पढ़ें
 
 
 ;Our innovations
@@ -61,7 +62,7 @@ Read our Internet Health Report
 
 
 ;Virtual Reality Platform
-अप्रत्यक्ष वास्तविक प्लेटफार्म
+वर्चुअल रिएलिटी प्लेटफार्म
 
 
 ;Unleash your Internet
@@ -115,7 +116,7 @@ Firefox और हमारी सहायता टीम से सभी Moz
 # https://drive.google.com/file/d/0B8po55rC8WGXeFVuSWo5SDZlOG8/view?usp=sharing
 # https://drive.google.com/file/d/0B8po55rC8WGXY0JWakp0Z1dlYXc/view?usp=sharing
 ;Proudly non-profit. <br>Donate before Dec 31.
-गर्व से गैरलाभ. <br>३१ दिसम्बर से पहले दान करे.
+गर्व से गैरलाभ. <br>31 दिसम्बर से पहले दान करे.
 
 
 # This is a sum in US dollars, e.g. '$100'. You can change the way it's displayed, e.g. '%(sum)s USD' will display '100 USD'

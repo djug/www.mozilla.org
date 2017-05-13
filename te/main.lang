@@ -4,7 +4,7 @@
 
 # Used for the navigation menu, points to /firefox/channel
 ;Pre-release downloads
-విడుదలకు మునుపు డౌన్లోడ్ లు
+మును-విడుదల దింపుకోళ్ళు
 
 
 # Used in the new Firefox family navigation menu. Second-level item of "OS"
@@ -588,7 +588,7 @@ Firefox వార్తలను పొందండి
 
 # This is a default placeholder for a subscription field on other pages than /newsletter/
 ;YOUR EMAIL HERE
-YOUR EMAIL HERE {ok}
+మీ ఈమెయిలు ఇక్కడ
 
 
 # Newsletter subscription Button
@@ -652,5 +652,10 @@ Firefox చిట్కాలు, ట్రిక్స్, వార్తల�
 # Used as title in What's new page for 50
 ;Thanks for choosing Firefox!
 Firefox ని ఎంచుకున్నందుకు కృతజ్ఞతలు!
+
+
+# Used in combination with other strings to create HTML page titles, e.g. in What's new pages
+;Mozilla Firefox Web Browser
+Mozilla Firefox జాల విహారిణి
 
 

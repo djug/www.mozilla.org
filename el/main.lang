@@ -35,7 +35,7 @@ Developer Edition {ok}
 
 # Firefox family navigation menu. Item displayed pressing the "…" button.
 ;Private Browsing
-Ιδιωτική Περιήγηση
+Ιδιωτική περιήγηση
 
 
 # Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
@@ -111,7 +111,7 @@ Developer Edition {ok}
 
 
 ;Contact Us
-Επικοινωνήστε μαζί μας
+Επικοινωνία
 
 
 ;Other languages:
@@ -270,7 +270,7 @@ MegaBytes {ok}
 
 
 ;Desktop
-Για υπολογιστές
+Υπολογιστές
 
 
 ;Firefox for mobile
@@ -296,12 +296,12 @@ Firefox για κινητά
 
 # Footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
-Τμήματα του περιεχομένου ανήκουν σε μεμονωμένους συμμετέχοντες στην κοινότητα του mozilla.org ©1998–%(current_year)s. Το περιεχόμενο διατίθεται σύμφωνα με την <a href="%(url)s">άδεια Creative Commons</a>.
+Τμήματα αυτού του περιεχομένου ανήκουν σε μεμονωμένους εθελοντές του mozilla.org ©1998–%(current_year)s. Το περιεχόμενο διατίθεται υπό την <a href="%(url)s">άδεια Creative Commons</a>.
 
 
 # Footer string (will replace "Contribute to this page")
 ;Contribute to this site
-Συνεισφέρετε σ' αυτή την ιστοσελίδα
+Συνεισφορά στην ιστοσελίδα
 
 
 # Footer string
@@ -321,7 +321,7 @@ Firefox για κινητά
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Sync
-Sync {ok}
+Συγχρονισμός
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -364,7 +364,7 @@ Sync {ok}
 
 # share button for social networks
 ;Share
-Μοιραστείτε το
+Κοινοποίηση
 
 
 # footer link
@@ -434,7 +434,7 @@ Firefox στο Facebook
 
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
-Αφοσιωμένος σε εσάς, στην ιδιωτικότητά σας και στον ανοιχτό ιστό
+Αφοσιωμένο σε εσάς, στο απόρρητό σας και σε ένα ανοιχτό διαδίκτυο
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
@@ -444,7 +444,7 @@ Firefox στο Facebook
 
 # Used as link to /firefox/desktop in footers on some pages
 ;Firefox Features
-Χαρακτηριστικά Firefox
+Χαρακτηριστικά του Firefox
 
 
 # Used as link to SUMO in footers on some pages
@@ -583,7 +583,7 @@ HTML {ok}
 
 # This string is used for a subscription field on other pages than /newsletter/
 ;Get Firefox news
-Λάβετε τα νέα μας
+Λάβετε τα νέα του Firefox
 
 
 # This is a default placeholder for a subscription field on other pages than /newsletter/
@@ -610,7 +610,7 @@ HTML {ok}
 
 
 ;We will only send you Mozilla-related information.
-Θα σας στείλουμε μόνο νέα σχετιζόμενα με το έργο Mozilla.
+Θα σάς στέλνουμε μόνο πληροφορίες σχετικές με τη Mozilla.
 
 
 ;Thanks!
@@ -630,7 +630,7 @@ HTML {ok}
 
 
 ;<span>Firefox</span> + You
-<span>Ο Firefox</span> + Εσείς
+<span>Το Firefox</span> + Εσείς
 
 
 ;Get Firefox tips, tricks, news and more
@@ -652,5 +652,10 @@ HTML {ok}
 # Used as title in What's new page for 50
 ;Thanks for choosing Firefox!
 Ευχαριστούμε που επιλέξατε το Firefox!
+
+
+# Used in combination with other strings to create HTML page titles, e.g. in What's new pages
+;Mozilla Firefox Web Browser
+Πρόγραμμα Περιήγησης Ιστού Mozilla Firefox
 
 

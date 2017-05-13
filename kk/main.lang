@@ -59,7 +59,7 @@ Firefox коммерциялы емес, корпоративті емес жә�
 
 
 ;Donate
-Ақшалай көмектесу
+Демеушілік ету
 
 
 ;Support
@@ -652,5 +652,10 @@ Firefox жөнінде кеңестер, жаңалықтар және т.б. а
 # Used as title in What's new page for 50
 ;Thanks for choosing Firefox!
 Firefox-ты таңдағаныңыз үшін рахмет!
+
+
+# Used in combination with other strings to create HTML page titles, e.g. in What's new pages
+;Mozilla Firefox Web Browser
+Mozilla Firefox веб браузері
 
 

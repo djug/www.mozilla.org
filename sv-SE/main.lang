@@ -578,7 +578,7 @@ Jag godkänner att Mozilla hanterar min information på det sätt som beskrivs o
 
 # This title is used for the newsletter block in footers, replacing "Get Firefox news". Currently visible on the en-US pages.
 ;Keep up with<br> all things Firefox.
-Håll dig uppdaterad med <br> allt Firefox.
+Håll dig uppdaterad med<br> de senaste nyheterna i Firefox.
 
 
 # This string is used for a subscription field on other pages than /newsletter/
@@ -652,5 +652,10 @@ Internethälsa
 # Used as title in What's new page for 50
 ;Thanks for choosing Firefox!
 Tack för att du valt Firefox!
+
+
+# Used in combination with other strings to create HTML page titles, e.g. in What's new pages
+;Mozilla Firefox Web Browser
+Webbläsaren Mozilla Firefox
 
 
